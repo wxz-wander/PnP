@@ -6,12 +6,6 @@ package wxz.org.cameraproject.config;
 
 public enum PPPPStatus {
     /**
- * VSTA431537DXFDN
-    admin
-    888888
- * */
-
-    /**
      * public static final int PPPP_STATUS_CONNECTING = 0;//连接中
      * public static final int PPPP_STATUS_INITIALING = 1;//已连接，正在初始化
      * public static final int PPPP_STATUS_ON_LINE = 2;//在线
